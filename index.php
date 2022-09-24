@@ -213,7 +213,7 @@
         </section>
 
         <section>
-            <div>
+            <div class="mContenedorRecetas">
                 <div class="mContenedorTitulo">
                     <h2>Simple and tasty recipes</h2>
                     <p>Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqut enim ad minim </p>
