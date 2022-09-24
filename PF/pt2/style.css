@@ -1,0 +1,86 @@
+.zTitulo{
+	display: flex;
+    justify-content: space-between;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.zTituloHijo1{
+	font-size: 3vw;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.zTituloHijo2{
+	width: 11vw;
+    background-color: #E7FAFE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-family: tahoma;
+    font-size: 1vw;
+    height: 3vw;
+}
+.zCat{
+	display: flex;
+    justify-content: space-around;
+    padding-top: 3vw;
+    padding-left: 4%;
+    padding-right: 6%;
+}
+.zCatHijo1{
+	background: linear-gradient(180deg, rgba(204, 38, 27, 0) 0%, rgb(116 109 108 / 15%) 100%);
+    border-radius: 30px;
+    height: 9vw;
+    width: 8vw;
+    display: block;
+    text-align: center;
+}
+.zCatHijo2{
+	background: linear-gradient(180deg, rgba(204, 38, 27, 0) 0%, rgb(45 134 81 / 28%) 100%);
+    border-radius: 30px;
+    height: 9vw;
+    width: 8vw;
+    display: block;
+    text-align: center;
+}
+.zCatHijo3{
+	background: linear-gradient(180deg, rgba(204, 38, 27, 0) 0%, rgb(255 29 14 / 24%) 100%);
+    border-radius: 30px;
+    height: 9vw;
+    width: 8vw;
+    display: block;
+    text-align: center;
+}
+.zCatHijo4{
+	background: linear-gradient(180deg, rgba(204, 38, 27, 0) 0%, rgb(216 217 59 / 23%) 100%);
+    border-radius: 30px;
+    height: 9vw;
+    width: 8vw;
+    display: block;
+    text-align: center;
+}
+.zCatHijo5{
+	background: linear-gradient(180deg, rgba(204, 38, 27, 0) 0%, rgb(116 109 108 / 15%) 100%);
+    border-radius: 30px;
+    height: 9vw;
+    width: 8vw;
+    display: block;
+    text-align: center;
+}
+.zCatHijo6{
+	background: linear-gradient(180deg, rgba(204, 38, 27, 0) 0%, rgb(116 109 108 / 15%) 100%);
+    border-radius: 30px;
+    height: 9vw;
+    width: 8vw;
+    display: block;
+    text-align: center;
+}
+.zCat p{
+	margin-block-start: 6%;
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: 0.9vw;
+}
+.zimagenCat{
+	width: 85%;
+}

@@ -22,7 +22,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Poppins:wght@700&display=swap" rel="stylesheet"> 
-
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 
 </head>
@@ -113,19 +118,6 @@
                                         </div>
                                     </div>
                                 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
                                 <div class="sAutorVerRecetas">
                                     <div class="sAutor">
                                         <div class="sAutorContenedor">
@@ -143,11 +135,7 @@
                                                 </p>
                                             </div>
                                         </div>
-                                    </div>
-                                    
-
-
-                                
+                                    </div>                                
                                     <div class="sverRecetas">
                                         <div>
                                             View Recipes
@@ -159,41 +147,10 @@
                                 </div>
                             </div>
                         </div>  
-                        
-                        
-
-
-
-
-
-
                         <div class="sInternoDerecho">
                             <img src="img/pollito.png" alt="">
                         </div>
                     </div>
-                   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                     <div class="item"><h4>2</h4></div>
                     <div class="item"><h4>3</h4></div>
                 </div>
@@ -215,6 +172,151 @@
                     owl.trigger('stop.owl.autoplay')
                 })
             </script>
+        </section>
+        <section>
+            <div class="ztituloCat">
+                <div class="zTitulo">
+                    <div class="zTituloHijo1">
+                        Categories
+                    </div>
+                    <div class="zTituloHijo2">
+                        View All Categories
+                    </div>
+                </div>
+                <div class="zCat">
+                    <div class="zCatHijo1">
+                        <img class="zimagenCat" src="img/onigiri.png">
+                        <p>Breakfast</p>
+                    </div>
+                    <div class="zCatHijo2"> 
+                        <img class="zimagenCat" src="img/lechuga.png">
+                        <p>Vegan</p>
+                    </div>
+                    <div class="zCatHijo3">
+                        <img class="zimagenCat" src="img/carne.png">
+                        <p>Meat</p>
+                    </div>
+                    <div class="zCatHijo4">
+                        <img class="zimagenCat" src="img/pastel.png">
+                        <p>Dessert</p>
+                    </div>
+                    <div class="zCatHijo5">
+                        <img class="zimagenCat" src="img/sandwich.png">
+                        <p>Lunch</p>
+                    </div>
+                    <div class="zCatHijo6">
+                        <img class="zimagenCat" src="img/chocolate.png">
+                        <p>Chocolate</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div>
+                <div class="mContenedorTitulo">
+                    <h2>Simple and tasty recipes</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqut enim ad minim </p>
+                </div>
+                <div class="mContenedorRecipes">
+                    <div class="mContenedorReceta">
+                        <div class="mImg">
+                            <img src="img/image 26.png" style="border-radius: 30px;">
+                            <div class="mMeGusta">
+                                <i class="bi bi-heart"></i>
+                            </div>
+                        </div>
+                        <div class="mEtiquetasCont">
+                            <div>
+                                <h3>Big and Juicy Wagyu Beef Cheeseburger</h3>
+                            </div>
+                            <div class="mEtiquetas">
+                                <div class="mEtiquetashijouno">
+                                    <!-- <i class="bi bi-stopwatch-fill"> 30 Minutos</i> -->
+                                    <div>
+                                        <i class="material-symbols-outlined">timer</i>
+                                    </div>
+                                    <div>
+                                        <p>30 Minutos</p>
+                                    </div>
+                                </div>
+                                <div class="mEtiquetashijouno">
+                                    <div>
+                                        <i class="material-symbols-outlined">restaurant</i>
+                                    </div>
+                                    <div class="mEat">
+                                        <p>Pollo</p>  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mContenedorReceta">
+                        <div class="mImg">
+                            <img src="img/image 26.png" style="border-radius: 30px;">
+                            <div class="mMeGusta">
+                                <i class="bi bi-heart"></i>
+                            </div>
+                        </div>
+                        <div class="mEtiquetasCont">
+                            <div>
+                                <h3>Big and Juicy Wagyu Beef Cheeseburger</h3>
+                            </div>
+                            <div class="mEtiquetas">
+                                <div class="mEtiquetashijouno">
+                                    <!-- <i class="bi bi-stopwatch-fill"> 30 Minutos</i> -->
+                                    <div>
+                                        <i class="material-symbols-outlined">timer</i>
+                                    </div>
+                                    <div>
+                                        <p>30 Minutos</p>
+                                    </div>
+                                </div>
+                                <div class="mEtiquetashijouno">
+                                    <div>
+                                        <i class="material-symbols-outlined">restaurant</i>
+                                    </div>
+                                    <div class="mEat">
+                                        <p>Pollo</p>  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mContenedorReceta">
+                        <div class="mImg">
+                            <img src="img/image 26.png" style="border-radius: 30px;">
+                            <div class="mMeGusta">
+                                <i class="bi bi-heart"></i>
+                            </div>
+                        </div>
+                        <div class="mEtiquetasCont">
+                            <div>
+                                <h3>Big and Juicy Wagyu Beef Cheeseburger</h3>
+                            </div>
+                            <div class="mEtiquetas">
+                                <div class="mEtiquetashijouno">
+                                    <!-- <i class="bi bi-stopwatch-fill"> 30 Minutos</i> -->
+                                    <div>
+                                        <i class="material-symbols-outlined">timer</i>
+                                    </div>
+                                    <div>
+                                        <p>30 Minutos</p>
+                                    </div>
+                                </div>
+                                <div class="mEtiquetashijouno">
+                                    <div>
+                                        <i class="material-symbols-outlined">restaurant</i>
+                                    </div>
+                                    <div class="mEat">
+                                        <p>Pollo</p>  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>    
         </section>
     </div>
 

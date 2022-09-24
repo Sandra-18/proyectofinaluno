@@ -1,0 +1,27 @@
+.zPadreimgChef{
+	display: flex;
+    padding: 4vw;	
+    align-items: center;
+}
+.zPadreimgChefNieto1 h1{
+	font-size: 3vw;
+    font-family: sans-serif;
+}
+
+.zPadreimgChefNieto2 p{
+	font-family: sans-serif;
+    font-size: 1vw;
+    padding-right: 14vw;
+}
+.zPadreimgChefNieto3 button{
+	width: 10vw;
+    margin-top: 5vw;
+    height: 3vw;
+    background: black;
+    color: white;
+    border-radius: 16px;
+    font-size: 1vw;
+}
+.zPadreimgChefHijo2 img{
+	width: 46vw;
+}
