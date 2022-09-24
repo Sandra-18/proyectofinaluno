@@ -318,6 +318,25 @@
                 </div>
         </div>    
         </section>
+        <section>
+            <div class="zPadreimgChef">
+                <div class="zPadreimgChefHijo1">
+                    <div class="zPadreimgChefNieto1">
+                        <h1>Everyone can be a chef in their own kitchen</h1>
+                    </div>
+                    <div class="zPadreimgChefNieto2">
+                        <p>
+                        Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqut enim ad minim </p>
+                    </div>
+                    <div class="zPadreimgChefNieto3">
+                        <button>Learn More</button>
+                    </div>
+                </div>
+                <div class="zPadreimgChefHijo2">
+                    <img src="img/chef.png">
+                </div>
+            </div>
+        </section>
     </div>
 
 
