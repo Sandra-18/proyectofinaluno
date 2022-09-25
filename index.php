@@ -23,11 +23,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Poppins:wght@700&display=swap" rel="stylesheet"> 
     
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
 
 
 </head>
@@ -223,7 +224,7 @@
                         <div class="mImg">
                             <img src="img/image 26.png" style="border-radius: 30px;">
                             <div class="mMeGusta">
-                                <i class="bi bi-heart"></i>
+                                <i class="fa-solid fa-heart"></i>
                             </div>
                         </div>
                         <div class="mEtiquetasCont">
@@ -255,7 +256,7 @@
                         <div class="mImg">
                             <img src="img/image 26.png" style="border-radius: 30px;">
                             <div class="mMeGusta">
-                                <i class="bi bi-heart"></i>
+                                <i class="fa-solid fa-heart"></i>
                             </div>
                         </div>
                         <div class="mEtiquetasCont">
@@ -287,7 +288,103 @@
                         <div class="mImg">
                             <img src="img/image 26.png" style="border-radius: 30px;">
                             <div class="mMeGusta">
-                                <i class="bi bi-heart"></i>
+                                <i class="fa-solid fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="mEtiquetasCont">
+                            <div>
+                                <h3>Big and Juicy Wagyu Beef Cheeseburger</h3>
+                            </div>
+                            <div class="mEtiquetas">
+                                <div class="mEtiquetashijouno">
+                                    <!-- <i class="bi bi-stopwatch-fill"> 30 Minutos</i> -->
+                                    <div>
+                                        <i class="material-symbols-outlined">timer</i>
+                                    </div>
+                                    <div>
+                                        <p>30 Minutos</p>
+                                    </div>
+                                </div>
+                                <div class="mEtiquetashijouno">
+                                    <div>
+                                        <i class="material-symbols-outlined">restaurant</i>
+                                    </div>
+                                    <div class="mEat">
+                                        <p>Pollo</p>  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mContenedorReceta">
+                        <div class="mImg">
+                            <img src="img/image 26.png" style="border-radius: 30px;">
+                            <div class="mMeGusta">
+                                <i class="fa-solid fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="mEtiquetasCont">
+                            <div>
+                                <h3>Big and Juicy Wagyu Beef Cheeseburger</h3>
+                            </div>
+                            <div class="mEtiquetas">
+                                <div class="mEtiquetashijouno">
+                                    <!-- <i class="bi bi-stopwatch-fill"> 30 Minutos</i> -->
+                                    <div>
+                                        <i class="material-symbols-outlined">timer</i>
+                                    </div>
+                                    <div>
+                                        <p>30 Minutos</p>
+                                    </div>
+                                </div>
+                                <div class="mEtiquetashijouno">
+                                    <div>
+                                        <i class="material-symbols-outlined">restaurant</i>
+                                    </div>
+                                    <div class="mEat">
+                                        <p>Pollo</p>  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mContenedorReceta">
+                        <div class="mImg">
+                            <img src="img/image 26.png" style="border-radius: 30px;">
+                            <div class="mMeGusta">
+                                <i class="fa-solid fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="mEtiquetasCont">
+                            <div>
+                                <h3>Big and Juicy Wagyu Beef Cheeseburger</h3>
+                            </div>
+                            <div class="mEtiquetas">
+                                <div class="mEtiquetashijouno">
+                                    <!-- <i class="bi bi-stopwatch-fill"> 30 Minutos</i> -->
+                                    <div>
+                                        <i class="material-symbols-outlined">timer</i>
+                                    </div>
+                                    <div>
+                                        <p>30 Minutos</p>
+                                    </div>
+                                </div>
+                                <div class="mEtiquetashijouno">
+                                    <div>
+                                        <i class="material-symbols-outlined">restaurant</i>
+                                    </div>
+                                    <div class="mEat">
+                                        <p>Pollo</p>  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mContenedorReceta">
+                        <div class="mImg">
+                            <img src="img/image 26.png" style="border-radius: 30px;">
+                            <div class="mMeGusta">
+                                <i class="fa-solid fa-heart"></i>
                             </div>
                         </div>
                         <div class="mEtiquetasCont">
